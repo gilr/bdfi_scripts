@@ -1,0 +1,1 @@
+php artisan %1

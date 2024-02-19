@@ -1,0 +1,3 @@
+c:
+cd \util
+cls
